@@ -4,14 +4,15 @@ Trabalhos realizados durante a UC de sistemas embarcados na UNIFESP
 
 ## Links para vídeos explicativos:
 
-A1:
+A1: https://youtu.be/8kXHX4qWErY
 
-A2:
+A2: https://youtu.be/h9RUzfLwXD4
 
-A3:
+A3: https://youtu.be/PAQ9x6CvmuU
 
-A4:
+A4: https://youtu.be/15ehZPBp1Ik
 
-A5:
+A5: https://youtu.be/awb3q68ocqs
 
-A6:
+A6: https://youtu.be/YaSer2Ur2DQ
+
